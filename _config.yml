@@ -47,7 +47,8 @@ author:
       url: "https://x.com/ankur_agwl"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll  # Use remote_theme for GitHub Pages
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: "default"
 
 plugins:
@@ -56,6 +57,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-remote-theme
 
 # Site Navigation
 defaults:
