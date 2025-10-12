@@ -47,12 +47,11 @@ author:
       url: "https://x.com/ankur_agwl"
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default"
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
