@@ -6,7 +6,7 @@ author_profile: true
 
 ## Who I Am
 
-I'm Ankur Aggarwal, a Technology Products Leader with over 20 years of experience building and scaling products at the intersection of technology and business impact. My career has been defined by driving measurable growth, optimizing user experiences, and leveraging cutting-edge technologies like GenAI and AI/ML to solve complex problems.
+I am a Technology Products Leader with over 20 years of experience building and scaling products at the intersection of technology and business impact. My career has been defined by driving measurable growth, optimizing user experiences, and leveraging cutting-edge technologies like GenAI and AI/ML to solve complex problems.
 
 ## My Journey
 
@@ -38,7 +38,6 @@ When I'm not building products, I'm:
 
 I'm always interested in connecting with fellow product leaders, technologists, and anyone passionate about building innovative products. Feel free to reach out:
 
-- **Email**: [ankur.awl@gmail.com](mailto:ankur.awl@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ankuraggarwal](https://www.linkedin.com/in/ankuraggarwal)
 - **X (Twitter)**: [@ankur_agwl](https://x.com/ankur_agwl)
 - **GitHub**: [github.com/ankurawl](https://github.com/ankurawl)
