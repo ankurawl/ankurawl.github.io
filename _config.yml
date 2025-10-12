@@ -18,23 +18,66 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Always be shipping 
+title: Ankur Aggarwal
 email: ankur.awl@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  Ankur Agarwal is a Technology Products Leader with over 20 years of experience in Product Strategy, Execution, and Growth. 
-  This experience spans roles at Meta and Amazon, focusing on areas like GenAI, Fintech, and Subscriptions economy. Key 
-  achievements include increasing paid Amazon Prime members by 100%, driving 20%+ growth in Amazon Seller Lending, and 
-  reducing candidate evaluation cost by 20%+. Holds an MBA from the Indian School of Business (ISB) and is driving innovation 
-  by leveraging AI/ML technologies. 
+  Technology Products Leader with 20+ years of experience in Product Strategy, Execution, and Growth. 
+  Experience spans roles at Meta and Amazon, focusing on areas like GenAI, Fintech, and Subscriptions economy. 
+  Key achievements include increasing paid Amazon Prime members by 100%, driving 20%+ growth in Amazon Seller Lending, 
+  and reducing candidate evaluation cost by 20%+.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+# Author information
+author:
+  name: "Ankur Aggarwal"
+  avatar: "/assets/images/ankur-image.png"
+  bio: "Technology Products Leader | Product Strategy, Execution, Growth | GenAI, Subscriptions, Fintech"
+  location: "United States"
+  email: "ankur.awl@gmail.com"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ankuraggarwal"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ankurawl"
+    - label: "X (Twitter)"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://x.com/ankur_agwl"
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+
+# Site Navigation
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
