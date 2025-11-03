@@ -39,7 +39,6 @@ When I'm not building products, I'm:
 I'm always interested in connecting with fellow product leaders, technologists, and anyone passionate about building innovative products. Feel free to reach out:
 
 - **LinkedIn**: [linkedin.com/in/ankuraggarwal](https://www.linkedin.com/in/ankuraggarwal)
-- **X (Twitter)**: [@ankur_agwl](https://x.com/ankur_agwl)
 - **GitHub**: [github.com/ankurawl](https://github.com/ankurawl)
 
 ---

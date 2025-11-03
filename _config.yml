@@ -32,7 +32,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: "Ankur Aggarwal"
   avatar: "/assets/images/ankur-image.png"
-  bio: "Technology Products Leader | Product Strategy, Execution, Growth | GenAI, Subscriptions, Fintech"
+  bio: "Technology Products Leader with 20+ years of experience driving Product Strategy, Execution, and Growth; Expertise in GenAI and Subscriptions"
   location: "United States"
   email: "ankur.awl@gmail.com"
   links:
@@ -42,14 +42,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ankurawl"
-    - label: "X (Twitter)"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://x.com/ankur_agwl"
 
 # Build settings
 # theme: minimal-mistakes-jekyll  # Use remote_theme for GitHub Pages
 remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: "default"
+
+# Hide RSS feed link in footer
+atom_feed:
+  hide: true
 
 plugins:
   - jekyll-feed

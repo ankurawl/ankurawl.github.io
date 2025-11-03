@@ -1,0 +1,87 @@
+/* Custom font size overrides */
+/* Reduce base font sizes across all breakpoints */
+
+html {
+  font-size: 14px !important; /* Reduced from 16px */
+}
+
+@media (min-width: 48em) {
+  html {
+    font-size: 15px !important; /* Reduced from 18px */
+  }
+}
+
+@media (min-width: 64em) {
+  html {
+    font-size: 16px !important; /* Reduced from 20px */
+  }
+}
+
+@media (min-width: 80em) {
+  html {
+    font-size: 17px !important; /* Reduced from 22px */
+  }
+}
+
+/* Increase author avatar size by 30% */
+.author__avatar img {
+  max-width: 143px !important; /* Increased from 110px (110 * 1.3 = 143) */
+  border-radius: 15px !important; /* Rounded square with more rounded edges */
+}
+
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 143px;
+  height: 143px;
+}
+
+@media (min-width: 64em) {
+  .author__avatar {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+  
+  .author__avatar img {
+    max-width: 143px !important; /* Increased from 110px */
+    border-radius: 15px !important; /* Rounded square with more rounded edges */
+  }
+}
+
+/* Shrink footer vertical size by removing spacing */
+.page__footer {
+  padding: 0 !important;
+  margin-top: 0.5em !important;
+  margin-bottom: 0 !important;
+}
+
+.page__footer footer {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.page__footer-copyright {
+  font-size: 0.75em !important; /* Increased by 50% from 0.5em */
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.2 !important;
+}
+
+.page__footer-follow {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.page__footer-follow ul {
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1.2 !important;
+}
+
+.page__footer-follow li {
+  font-size: 0.75em !important; /* Increased by 50% from 0.5em */
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
