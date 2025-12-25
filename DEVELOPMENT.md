@@ -31,7 +31,7 @@ bundle exec jekyll serve
 This project uses:
 - **Ruby 3.3.6** (set via `.ruby-version`)
 - **OpenSSL 3.0.18** (more stable than 3.6.0)
-- **Jekyll 3.10.0** (via `github-pages` gem)
+- **Jekyll** (via `github-pages` gem)
 - **Remote Theme**: `mmistakes/minimal-mistakes@4.26.2`
 
 ### Why the wrapper script?

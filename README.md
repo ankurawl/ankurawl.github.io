@@ -4,8 +4,7 @@ A professional portfolio website built with Jekyll and the Minimal Mistakes them
 
 ## Site Structure
 
-- **Home** (`/`) - About me section with professional highlights and quick links
-- **Resume** (`/resume/`) - Detailed work experience, education, and accomplishments
+- **Home** (`/`) - Posts archive/blog listing with articles on product management, technology leadership, and AI/ML innovations
 - **Posts** (`/posts/`) - Blog posts and articles (chronologically arranged)
 - **Projects** (`/projects/`) - GenAI hobby projects and AI-enabled applications
 - **About** (`/about/`) - Detailed personal and professional background
@@ -41,9 +40,9 @@ A professional portfolio website built with Jekyll and the Minimal Mistakes them
 
 ### Option 1: User Site 
 
-1. **Repository Name**: Repository is named `ankuragwl.github.io`
+1. **Repository Name**: Repository is named `ankurawl.github.io`
 2. **Branch**: Push to the `main` (or `master`) branch
-3. **Access**: Site will be available at `https://ankuragwl.github.io`
+3. **Access**: Site will be available at `https://ankurawl.github.io`
 
 ```bash
 git add .
@@ -110,12 +109,13 @@ minimal_mistakes_skin: "default"  # Options: "default", "air", "aqua", "contrast
 - `_config.yml` - Site configuration
 - `_data/navigation.yml` - Main navigation menu
 - `index.markdown` - Home page content
-- `resume.md` - Resume page
 - `projects.md` - Projects page
-- `about.markdown` - About page
+- `about.md` - About page
 - `posts.md` - Posts archive page
 - `_posts/` - Blog posts directory
 - `assets/images/` - Images and media files
+- `.gitignore` - Git ignore file for Jekyll
+- `.ruby-version` - Ruby version specification
 
 ## Resources
 
