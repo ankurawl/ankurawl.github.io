@@ -2,7 +2,7 @@
 layout: single
 title: "Projects"
 permalink: /projects/
-author_profile: true
+author_profile: false
 ---
 
 # Hobby/Learning Projects Leveraging Gen AI and LLMs

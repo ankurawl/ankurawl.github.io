@@ -1,11 +1,9 @@
 # Main navigation links
 main:
-  - title: "Home"
-    url: /
-  - title: "Resume"
-    url: /resume/
   - title: "Posts"
-    url: /posts/
+    url: /
   - title: "Projects"
     url: /projects/
+  - title: "About Me"
+    url: /about-me/
 

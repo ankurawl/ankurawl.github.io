@@ -1,10 +1,6 @@
 # Ankur Aggarwal - Personal Website
 
-A professional portfolio website built with Jekyll and the Minimal Mistakes theme, hosted on GitHub Pages.
-
-## About This Site
-
-This website showcases professional experience, education, accomplishments, blog posts, and projects. It's designed to highlight capabilities while serving as a repository of past content and projects.
+A professional portfolio website built with Jekyll and the Minimal Mistakes theme, hosted on GitHub Pages. It showcases professional experience, education, accomplishments, blog posts, and projects. It's designed to highlight capabilities while serving as a repository of past content and projects.
 
 ## Site Structure
 
@@ -43,9 +39,9 @@ This website showcases professional experience, education, accomplishments, blog
 
 ## Deployment to GitHub Pages
 
-### Option 1: User/Organization Site (Recommended)
+### Option 1: User Site 
 
-1. **Repository Name**: Ensure your repository is named `ankuragwl.github.io`
+1. **Repository Name**: Repository is named `ankuragwl.github.io`
 2. **Branch**: Push to the `main` (or `master`) branch
 3. **Access**: Site will be available at `https://ankuragwl.github.io`
 
@@ -55,12 +51,12 @@ git commit -m "Your commit message"
 git push origin main
 ```
 
-GitHub Pages will automatically build and deploy your site within a few minutes.
+GitHub Pages will automatically build and deploy the site within a few minutes.
 
 ### Option 2: Project Site
 
 If using a different repository name:
-1. Update `baseurl` in `_config.yml` to match your repository name
+1. Update `baseurl` in `_config.yml` to match the repository name
 2. Enable GitHub Pages in repository settings
 3. Select source branch (usually `main`)
 
@@ -68,9 +64,9 @@ If using a different repository name:
 
 1. Create a new file in `_posts/` directory
 2. Name format: `YYYY-MM-DD-title-of-post.md`
-3. Use the template provided in `_posts/TEMPLATE-POST.md`
+3. Template: `_posts/TEMPLATE-POST.md`
 4. Include front matter with title, date, categories, and tags
-5. Write your content in Markdown
+5. Note: Content in Markdown 
 
 Example:
 ```markdown
@@ -83,7 +79,7 @@ tags: [ai, product-strategy]
 author_profile: true
 ---
 
-Your content here...
+Content here...
 ```
 
 ## Adding Images
@@ -134,6 +130,3 @@ minimal_mistakes_skin: "default"  # Options: "default", "air", "aqua", "contrast
 - **GitHub**: [github.com/ankurawl](https://github.com/ankurawl)
 
 ---
-
-*Always be shipping*
-
