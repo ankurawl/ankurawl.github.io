@@ -1,19 +1,18 @@
-# Ankur Aggarwal - Personal Website
+# Personal Website
 
-A professional portfolio website built with Jekyll and the Minimal Mistakes theme, hosted on GitHub Pages. It showcases professional experience, education, accomplishments, blog posts, and projects. It's designed to highlight capabilities while serving as a repository of past content and projects.
+My personal website to showcase professional experience, education, accomplishments, opinions, and projects. It's designed to highlight capabilities while serving as a repository of past content and projects.
 
 ## Site Structure
 
-- **Home** (`/`) - Posts archive/blog listing with articles on product management, technology leadership, and AI/ML innovations
-- **Posts** (`/posts/`) - Blog posts and articles (chronologically arranged)
-- **Projects** (`/projects/`) - GenAI hobby projects and AI-enabled applications
-- **About** (`/about/`) - Detailed personal and professional background
+- **Home** (`/`) - Posts archive/blog listing with my opinions on Companies, Products, Technology, Innovation and Capital markets
+- **Projects** (`/projects/`) - Hobby projects, AI-enabled applications
+- **About** (`/about/`) - My professional background and accomplishments 
 
 ## Technology Stack
 
 - **Jekyll** - Static site generator
 - **Minimal Mistakes Theme** - Professional, responsive design
-- **GitHub Pages** - Free hosting
+- **GitHub Pages** - Hosting
 
 ## Local Development
 
@@ -24,7 +23,7 @@ A professional portfolio website built with Jekyll and the Minimal Mistakes them
 
 ### Setup and Run
 
-1. Install dependencies:
+1. Dependencies:
    ```bash
    bundle install
    ```
@@ -34,15 +33,12 @@ A professional portfolio website built with Jekyll and the Minimal Mistakes them
    bundle exec jekyll serve
    ```
 
-3. View the site at: `http://localhost:4000`
+3. Site: `http://localhost:4000`
 
 ## Deployment to GitHub Pages
 
-### Option 1: User Site 
-
-1. **Repository Name**: Repository is named `ankurawl.github.io`
-2. **Branch**: Push to the `main` (or `master`) branch
-3. **Access**: Site will be available at `https://ankurawl.github.io`
+1. **Repository**: `ankurawl.github.io`
+3. **Public Access**: `https://ankurawl.github.io`
 
 ```bash
 git add .
@@ -50,22 +46,15 @@ git commit -m "Your commit message"
 git push origin main
 ```
 
-GitHub Pages will automatically build and deploy the site within a few minutes.
+GitHub Pages builds and deploys the site.
 
-### Option 2: Project Site
 
-If using a different repository name:
-1. Update `baseurl` in `_config.yml` to match the repository name
-2. Enable GitHub Pages in repository settings
-3. Select source branch (usually `main`)
+## New Posts/Opinions 
 
-## Creating New Posts
-
-1. Create a new file in `_posts/` directory
+1. New file in `_posts/` directory
 2. Name format: `YYYY-MM-DD-title-of-post.md`
 3. Template: `_posts/TEMPLATE-POST.md`
-4. Include front matter with title, date, categories, and tags
-5. Note: Content in Markdown 
+4. Front matter with title, date, categories, and tags
 
 Example:
 ```markdown
@@ -78,12 +67,12 @@ tags: [ai, product-strategy]
 author_profile: true
 ---
 
-Content here...
+Content ...
 ```
 
-## Adding Images
+## Images
 
-1. Place images in `/assets/images/`
+1. Images in `/assets/images/`
 2. Reference in markdown:
    ```markdown
    ![Alt text](/assets/images/your-image.png)
@@ -91,11 +80,11 @@ Content here...
 
 ## Customization
 
-### Updating Personal Information
+### Updating Site wide Information
 
-- **Config**: Edit `_config.yml` for site-wide settings
-- **Author Profile**: Update author section in `_config.yml`
-- **Navigation**: Modify `_data/navigation.yml`
+- **Config**: `_config.yml` for site-wide settings
+- **Author Profile**: Author section in `_config.yml`
+- **Navigation**: `_data/navigation.yml`
 
 ### Changing Theme Appearance
 
@@ -125,7 +114,6 @@ minimal_mistakes_skin: "default"  # Options: "default", "air", "aqua", "contrast
 
 ## Contact
 
-- **Email**: ankur.awl@gmail.com
 - **LinkedIn**: [linkedin.com/in/ankuraggarwal](https://www.linkedin.com/in/ankuraggarwal)
 - **GitHub**: [github.com/ankurawl](https://github.com/ankurawl)
 

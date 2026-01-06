@@ -5,30 +5,23 @@ permalink: /about-me/
 author_profile: false
 ---
 
-# Ankur Aggarwal
+# Me: Ankur Aggarwal 
 
-![Ankur Aggarwal](/assets/images/ankur-image.png)
+Technology Products Leader with 20+ years of experience driving Product Strategy, Growth, Execution, Metrics, User Research, Customer Experience and more. 
 
-Technology Products Leader with 20+ years of experience driving Product Strategy, Execution, and Growth; Expertise in GenAI and Subscriptions
+My experience spans entire lifecycle of technology products including building 0 to 1 products (Amazon's Junglee.com, Alexa enabled microwave), consumer and long tail B2B products (Amazon Prime for Students, Amazon Seller Lending), consumer hardware (Logitech Smart Set-top box, Amazon Alexa microwave), and enterprise grade internal tooling (Amazon scale Recruiting, Meta scale User Research). 
 
-United States
+My latest passion is to leverage AI to imagine and build new product capabilities that were not possible due to technology or business constraints. 
 
-## Links
+## My Current Profession and Past Journey
 
-- [LinkedIn](https://www.linkedin.com/in/ankuraggarwal)
-- [GitHub](https://github.com/ankurawl)
+Tags: Innovation Technology Meta Amazon 
 
-## Who I Am
+- **Meta**: I'm currently building product capabilities to enable User Research and derive User Insights that scales across billions of world-wide users, across geographies with varying compliance requirements, and across internal teams in tens of orgs. 
+ 
 
-I am a Technology Products Leader with over 20 years of experience building and scaling products at the intersection of technology and business impact. My career has been defined by driving measurable growth, optimizing user experiences, and leveraging cutting-edge technologies like GenAI and AI/ML to solve complex problems.
-
-## My Journey
-
-My professional journey has taken me through some of the world's most innovative technology companies:
-
-- **Meta**: Currently leading User Insights product capabilities, and previously drove growth in Facebook Marketplace
 - **Amazon**: Spent over a decade in various product leadership roles, including Principal Product Manager for Candidate Evaluations, and Manager of Product Management for Prime, Alexa, and Seller Lending
-- **Earlier Career**: Built foundational experience at Logitech, OnMobile, and Infosys, launching customer-oriented products in banking and consumer electronics
+- **Early Career**: Built foundational experience at Logitech, OnMobile, and Infosys, launching customer-oriented products in banking and consumer electronics
 
 ## What Drives Me
 
@@ -54,6 +47,8 @@ I'm always interested in connecting with fellow product leaders, technologists, 
 
 - **LinkedIn**: [linkedin.com/in/ankuraggarwal](https://www.linkedin.com/in/ankuraggarwal)
 - **GitHub**: [github.com/ankurawl](https://github.com/ankurawl)
+
+![Ankur Aggarwal](/assets/images/ankur-image.png)
 
 ---
 
