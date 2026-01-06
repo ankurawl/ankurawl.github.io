@@ -4,8 +4,7 @@ title: "Is AI a Bubble? The Data Tells a Different Story"
 date: 2026-01-01 10:00:00 -0500
 categories: [technology, market-analysis]
 tags: [ai, market-valuation, nvidia, openai, anthropic, venture-capital, bubble-analysis]
-author_profile: true
-excerpt: "Financial commentators warn about an AI bubble, but public market data reveals a more nuanced story. The real risk sits in private markets funding AI model companies, not in chips or infrastructure." 
+excerpt: "My Opinions on Companies, Products, Technology, Innovation and Capital markets."
 ---
 
 # Is AI a Bubble? The Data Tells a Different Story
