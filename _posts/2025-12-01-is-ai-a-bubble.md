@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Is AI a Bubble? The Data Tells a Different Story"
-date: 2026-01-01 10:00:00 -0500
+date: 2025-12-01 10:10:10 -0500
 categories: [technology, market-analysis]
 tags: [ai, market-valuation, nvidia, openai, anthropic, venture-capital, bubble-analysis]
 excerpt: "My Opinions on Companies, Products, Technology, Innovation and Capital markets."
