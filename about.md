@@ -6,7 +6,7 @@ description: "Ankur Aggarwal -- Product leader with 20+ years building technolog
 author_profile: false
 ---
 
-![Ankur Aggarwal](/assets/images/ankur-image.png)
+<img src="/assets/images/ankur-image.png" alt="Ankur Aggarwal" class="about-photo">
 
 # Ankur Aggarwal
 

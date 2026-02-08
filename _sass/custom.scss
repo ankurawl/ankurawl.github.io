@@ -85,3 +85,12 @@ html {
   margin: 0 !important;
 }
 
+/* About page photo sizing */
+.about-photo {
+  max-width: 220px;
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+}
+
