@@ -7,8 +7,6 @@ tags: [ai, market-valuation, nvidia, openai, anthropic, venture-capital, bubble-
 excerpt: "My Opinions on Companies, Products, Technology, Innovation and Capital markets."
 ---
 
-# Is AI a Bubble? The Data Tells a Different Story
-
 Commentators spent 2024 and 2025 warning about an AI bubble, comparing every valuation to 1999. But public market data tells a different story. The real risk sits where analysts aren't looking: private markets.
 
 The AI industry has four layers: chips (Nvidia, AMD), infrastructure (Amazon, Microsoft, Google), models (OpenAI, Anthropic), and applications (Meta, Google, startups). Public companies show stable fundamentals. Private model companies show warning signs.

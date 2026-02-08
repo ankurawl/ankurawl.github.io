@@ -7,8 +7,6 @@ tags: [ai, layoffs, cost cutting]
 excerpt: "My Opinions on Companies, Products, Technology, Innovation and Capital markets."
 ---
 
-# Evolving reasons for tech layoffs
-
 Why are tech companies still cutting jobs despite record profits? The answer has shifted three times since 2022. The current phase represents a structural transformation, not cyclical belt-tightening.
 
 ## The Pandemic Correction: 2022-2023
