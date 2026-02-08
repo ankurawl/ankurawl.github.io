@@ -8,8 +8,6 @@ author_profile: false
 
 <img src="/assets/images/ankur-image.png" alt="Ankur Aggarwal" class="about-photo">
 
-# Ankur Aggarwal
-
 Product leader with a track record of building 0 to 1 products and scaling established businesses at Meta and Amazon. Led products for cross-functional 50+ member teams spanning engineering, data science, and design. Shipped products across fintech, subscriptions, marketplaces, and AI platforms. Took complex ambiguous problems and launched or rebuilt for scale using data, technology and AI/ML.
 
 ---

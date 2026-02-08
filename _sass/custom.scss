@@ -1,4 +1,46 @@
-/* Custom font size overrides */
+/* Responsive container and breakpoint variables */
+/* Typical container max-widths based on common screen sizes */
+$container-padding-x: 1rem !default;
+$container-max-xs: 540px;  // phones (up to ~37.5rem)
+$container-max-sm: 720px;  // small tablets
+$container-max-md: 960px;  // tablets / small desktop
+$container-max-lg: 1140px; // large desktop
+
+.container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: $container-padding-x;
+  padding-right: $container-padding-x;
+  box-sizing: border-box;
+}
+
+@media (min-width: 48em) {
+  .container { max-width: $container-max-xs; }
+}
+
+@media (min-width: 64em) {
+  .container { max-width: $container-max-sm; }
+}
+
+@media (min-width: 75em) {
+  .container { max-width: $container-max-md; }
+}
+
+@media (min-width: 90em) {
+  .container { max-width: $container-max-lg; }
+}
+
+/* Allow content to expand to full width with default padding */
+.initial-content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-sizing: border-box;
+}
+
 /* Reduce base font sizes across all breakpoints */
 
 html {

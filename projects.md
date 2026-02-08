@@ -6,8 +6,6 @@ description: "AI projects by Ankur Aggarwal -- autonomous agents and tools built
 author_profile: false
 ---
 
-# Projects
-
 I work with generative AI to understand its product implications firsthand -- what works, what breaks, and where the real value is. For my professional background, see [About Me](/about-me/).
 
 ---
@@ -20,11 +18,9 @@ An autonomous multi-step agent that generates original product management conten
 
 **What I learned:** Autonomous generation works well for structured, domain-specific content. The human-in-the-loop step catches posts that are technically correct but miss nuance -- a pattern that generalizes to most AI-assisted workflows.
 
-**Impact:** 100+ posts published autonomously to [@ankur_agwl](https://x.com/ankur_agwl).
-
 **Built with:** Python, Claude API, X API, cron-based scheduling
 
-[GitHub](https://github.com/ankurawl/auto-totd) | [See it live on X](https://x.com/ankur_agwl)
+[GitHub](https://github.com/ankurawl/auto-totd)  
 
 ---
 
@@ -44,10 +40,12 @@ An AI agent that helps interviewers write structured, high-quality feedback -- r
 
 ## Other Builds
 
-**Solo Scrabble (2024)** -- A solo Scrabble game with persistent cloud state and cross-device sync. Start on your phone, finish on your laptop. [GitHub](https://github.com/ankurawl/solo-scrabble-adventure) | [Play it](https://solo-scrabble-9aa75.web.app/)
+**Solo Scrabble (2024):** A solo Scrabble game with persistent cloud state and cross-device sync. Start on your phone, finish on your laptop. [GitHub](https://github.com/ankurawl/solo-scrabble-adventure)  /  [Play it](https://solo-scrabble-9aa75.web.app/)
 
 ---
 
 ## Connect
 
 Interested in collaborating? [Reach out on LinkedIn](https://www.linkedin.com/in/ankuraggarwal).
+
+--- 
