@@ -2,61 +2,52 @@
 layout: single
 title: "Projects"
 permalink: /projects/
+description: "AI projects by Ankur Aggarwal -- autonomous agents and tools built to test generative AI in practice."
 author_profile: false
 ---
 
-# Hobby/Learning Projects Leveraging Gen AI and LLMs
+# Projects
 
-I'm passionate about exploring and building with emerging technologies, particularly in the GenAI and LLM space. Here are some of my recent projects that demonstrate practical applications of AI/ML technologies.
-
----
-
-## Autonomous Thought-of-the-Day Agent
-
-**Description**: Built a multi-step agent that creates original content on product management and publishes to X (formerly Twitter). The system incorporates a human-in-the-loop approval mechanism and autonomous time & day-based publishing schedule.
-
-**Technologies**: Gen AI, LLMs, Multi-step agents, API integration
-
-**Key Features**:
-- Original content generation focused on product management insights
-- Human-in-the-loop approval workflow
-- Automated scheduling and publishing
-- Time and day-based intelligent posting
-
-**Links**:
-- [GitHub Repository](https://github.com/ankurawl/auto-totd)
-- [X Account - @ankur_agwl](https://x.com/ankur_agwl)
+I work with generative AI to understand its product implications firsthand -- what works, what breaks, and where the real value is. For my professional background, see [About Me](/about-me/).
 
 ---
 
-## Multi-Session Multi-Device Solo Gaming
+## Content Agent for X (2024)
 
-**Description**: Developed a solo game that users can play over multiple sessions across different devices. The application features cloud-based game state persistence, allowing users to create their own account and seamlessly continue their game from any device.
+An autonomous multi-step agent that generates original product management content -- tactical tips, frameworks, and observations on building at scale -- and publishes to X with human-in-the-loop approval.
 
-**Technologies**: Web development, Cloud storage, User authentication, Session management
+**How it works:** The agent generates content, routes it for approval, and handles time-based scheduling. It runs as a pipeline with decision logic at each stage, not a single prompt.
 
-**Key Features**:
-- Cross-device gameplay continuity
-- User account creation and management
-- Cloud-based game state storage
-- Multi-session support
-- Responsive design for various devices
+**What I learned:** Autonomous generation works well for structured, domain-specific content. The human-in-the-loop step catches posts that are technically correct but miss nuance -- a pattern that generalizes to most AI-assisted workflows.
 
-**Links**:
-- [GitHub Repository](https://github.com/ankurawl/solo-scrabble-adventure)
-- [Live Application](https://solo-scrabble-9aa75.web.app/)
+**Impact:** 100+ posts published autonomously to [@ankur_agwl](https://x.com/ankur_agwl).
+
+**Built with:** Python, Claude API, X API, cron-based scheduling
+
+[GitHub](https://github.com/ankurawl/auto-totd) | [See it live on X](https://x.com/ankur_agwl)
 
 ---
 
-## Future Projects
+## Interview Feedback Agent (2024)
 
-This section will be updated with new projects as I continue to explore AI-enabled applications, including:
-- AI-generated images
-- Video creation and editing with AI
-- Code generation and automation tools
-- Other innovative AI applications
+An AI agent that helps interviewers write structured, high-quality feedback -- reducing time-to-submit and improving consistency across hiring panels.
+
+**How it works:** Interviewers input raw notes from a session; the agent maps them to Meta's hiring rubric dimensions and generates structured evaluations.
+
+**What I learned:** The challenge wasn't generating structured text -- it was calibrating output to match the evaluative rigor hiring panels expect. Prompt design required iteration with actual interviewers, not just test data.
+
+**Status:** Deployed internally at Meta. Used by multiple interviewers.
+
+**Built with:** Meta's internal agent platform, prompt chaining, few-shot classification
 
 ---
 
-*Stay tuned for more projects! Feel free to explore the repositories and reach out with questions or collaboration ideas.*
+## Other Builds
 
+**Solo Scrabble (2024)** -- A solo Scrabble game with persistent cloud state and cross-device sync. Start on your phone, finish on your laptop. [GitHub](https://github.com/ankurawl/solo-scrabble-adventure) | [Play it](https://solo-scrabble-9aa75.web.app/)
+
+---
+
+## Connect
+
+Interested in collaborating? [Reach out on LinkedIn](https://www.linkedin.com/in/ankuraggarwal).
