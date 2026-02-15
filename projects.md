@@ -10,21 +10,7 @@ I work with generative AI to understand its product implications firsthand -- wh
 
 ---
 
-## Content Agent for X (2024)
-
-An autonomous multi-step agent that generates original product management content -- tactical tips, frameworks, and observations on building at scale -- and publishes to X with human-in-the-loop approval.
-
-**How it works:** The agent generates content, routes it for approval, and handles time-based scheduling. It runs as a pipeline with decision logic at each stage, not a single prompt.
-
-**What I learned:** Autonomous generation works well for structured, domain-specific content. The human-in-the-loop step catches posts that are technically correct but miss nuance -- a pattern that generalizes to most AI-assisted workflows.
-
-**Built with:** Python, Claude API, X API, cron-based scheduling
-
-[GitHub](https://github.com/ankurawl/auto-totd)  
-
----
-
-## Interview Feedback Agent (2024)
+## Interview Feedback Agent (2026)
 
 An AI agent that helps interviewers write structured, high-quality feedback -- reducing time-to-submit and improving consistency across hiring panels.
 
@@ -35,6 +21,20 @@ An AI agent that helps interviewers write structured, high-quality feedback -- r
 **Status:** Deployed internally at Meta. Used by multiple interviewers.
 
 **Built with:** Meta's internal agent platform, prompt chaining, few-shot classification
+
+---
+
+## Content Agent for X (2025)
+
+An autonomous multi-step agent that generates original product management content -- tactical tips, frameworks, and observations on building at scale -- and publishes to X with human-in-the-loop approval.
+
+**How it works:** The agent generates content, routes it for approval, and handles time-based scheduling. It runs as a pipeline with decision logic at each stage, not a single prompt.
+
+**What I learned:** Autonomous generation works well for structured, domain-specific content. The human-in-the-loop step catches posts that are technically correct but miss nuance -- a pattern that generalizes to most AI-assisted workflows.
+
+**Built with:** Python, Claude API, X API, cron-based scheduling
+
+[GitHub](https://github.com/ankurawl/auto-totd)  
 
 ---
 
