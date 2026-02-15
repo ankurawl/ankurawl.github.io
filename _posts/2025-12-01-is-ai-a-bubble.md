@@ -75,9 +75,12 @@ The AI bubble exists in private markets funding the models layer. Public markets
 
 ## Sources
 
-OpenAI funding: [OpenAI closes funding at $157 billion valuation](https://www.cnbc.com/2024/10/02/openai-raises-at-157-billion-valuation-microsoft-nvidia-join-round.html), CNBC (October 2024); [OpenAI seeking $100B at $830B valuation](https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/), TechCrunch (December 2024)
-
-Anthropic funding: [Anthropic raises Series E at $61.5B](https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation), Anthropic (March 2025); [Anthropic raises $13B at $183B](https://news.crunchbase.com/venture/generative-ai-anthropic-funding-iconiq/), Crunchbase (September 2025); [Anthropic valued at $350B range](https://www.cnbc.com/2025/11/18/anthropic-ai-azure-microsoft-nvidia.html), CNBC (November 2025)
-
-Dot-com bubble data: [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble), Wikipedia; [Venture Capital: Lessons from the Dot-Com Days](https://blogs.cfainstitute.org/investor/2024/03/01/venture-capital-lessons-from-the-dot-com-days/), CFA Institute; [A revealing look at the dot-com bubble of 2000](https://ideas.ted.com/an-eye-opening-look-at-the-dot-com-bubble-of-2000-and-how-it-shapes-our-lives-today/), TED
+1. [OpenAI closes funding at $157 billion valuation](https://www.cnbc.com/2024/10/02/openai-raises-at-157-billion-valuation-microsoft-nvidia-join-round.html), CNBC (October 2024) 
+2. [OpenAI seeking $100B at $830B valuation](https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/), TechCrunch (December 2024)
+3. [Anthropic raises Series E at $61.5B](https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation), Anthropic (March 2025) 
+4. [Anthropic raises $13B at $183B](https://news.crunchbase.com/venture/generative-ai-anthropic-funding-iconiq/), Crunchbase (September 2025) 
+5. [Anthropic valued at $350B range](https://www.cnbc.com/2025/11/18/anthropic-ai-azure-microsoft-nvidia.html), CNBC (November 2025)
+6. [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble), Wikipedia 
+7. [Venture Capital: Lessons from the Dot-Com Days](https://blogs.cfainstitute.org/investor/2024/03/01/venture-capital-lessons-from-the-dot-com-days/), CFA Institute 
+8. [A revealing look at the dot-com bubble of 2000](https://ideas.ted.com/an-eye-opening-look-at-the-dot-com-bubble-of-2000-and-how-it-shapes-our-lives-today/), TED
 
