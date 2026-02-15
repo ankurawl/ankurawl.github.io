@@ -11,7 +11,9 @@ This post explores the paradigm shifts in the process of software product develo
 
 # The Shifting Bottleneck: How AI is Reshaping Product Development
 
-As a product manager, I’ve always been fascinated by the tools that shape how we think and build. To understand the real-world impact of modern AI development tools, I recently built a full-stack movie recommendation web application from scratch (https://whatsnext.manus.space). The process was a stark reminder that the tools we use don’t just change our efficiency; they redefine our entire workflow. The age of AI is not just accelerating development; it’s fundamentally shifting the bottleneck from engineering to product clarity.
+As a product manager, I’ve always been fascinated by the tools that shape how we think and build. To understand the real-world impact of modern AI development tools, I recently built a full-stack movie recommendation web application from scratch ([What's Next](https://whatsnext.manus.space)), complete with TMDB API integration, natural language AI recommendations, OAuth for user personalization, and database of user's ratings. 
+
+The process was a stark reminder that the tools we use don’t just change our efficiency; they redefine our entire workflow. The age of AI is not just accelerating development; it’s fundamentally shifting the bottleneck from engineering to product clarity.
 
 ## From Waterfall to Continuous Discovery
 
