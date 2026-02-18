@@ -8,6 +8,23 @@ author_profile: false
 
 I work with generative AI to understand its product implications firsthand -- what works, what breaks, and where the real value is. For my professional background, see [About Me](/about-me/).
 
+--- 
+
+## What's Next, a movie recommendations app (2026)
+
+A full-stack movie recommendation web app that uses natural language prompt and past data on user's likes/dislikes to generate AI based recommendations on what to watch next. Built end-to-end using Manus to test how AI development tools reshape the product building process.
+
+**How it works:** Users sign in via OAuth, rate movies they've seen, query for additional movies using a natural prompt and get personalized recommendations. The app integrates with TMDB for movie
+data, saves user's ratings for future and uses AI to suggest new movies. 
+
+**What I learned:** The initial version -- React frontend, Node.js backend, database, auth -- was generated in minutes. But getting the UX right took multiple turns of collecting and synthesizing user feedback. The bottleneck wasn't building; it was knowing *what* to build. Wrote about this in [The Shifting
+Bottleneck](/technology/product-management/2026/02/10/the-shifting-bottleneck.html).
+
+**Status:** Live at [whatsnext.manus.space](https://whatsnext.manus.space). Requires Meta account sign-in.
+
+**Built with:** Manus, React, Node.js, TMDB API, OAuth
+
+
 ---
 
 ## Interview Feedback Agent (2026)
