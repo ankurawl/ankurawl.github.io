@@ -4,7 +4,7 @@ title: "Evolving reasons for tech layoffs and What's next for employees"
 date: 2026-01-10 10:10:10 -0500 
 categories: [technology, market-analysis]
 tags: [ai, layoffs, cost cutting]
-excerpt: "My Opinions on Companies, Products, Technology, Innovation and Capital markets."
+excerpt: "Analyzing the transition from pandemic-era over-hiring to AI-driven operational efficiency as the primary catalyst for tech industry workforce reduction."
 ---
 
 Why are tech companies still cutting jobs despite record profits? The answer has shifted three times since 2022. The current phase represents a structural transformation, not cyclical belt-tightening.

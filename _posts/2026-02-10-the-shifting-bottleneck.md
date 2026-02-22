@@ -4,12 +4,10 @@ title: "The Shifting Bottleneck: How AI is Reshaping Product Development"
 date: 2026-02-10 10:10:10 -0500 
 categories: [technology, product-management]
 tags: [ai, technology, product-management, process, continuous-discovery]
-excerpt: "My Opinions on Companies, Products, Technology, Innovation and Capital markets."
+excerpt: "As AI commoditizes development, the bottleneck shifts from execution speed to product clarity and the continuous cycle of user discovery."
 ---
 
 This post explores the paradigm shifts in the process of software product development, tracing the evolution from Waterfall to Agile and into a new era of continuous discovery and development. It examines how AI tools are changing the game and what that means for product managers.
-
-# The Shifting Bottleneck: How AI is Reshaping Product Development
 
 As a product manager, I’ve always been fascinated by the tools that shape how we think and build. To understand the real-world impact of modern AI development tools, I recently built a full-stack movie recommendation web application from scratch ([What's Next](https://whatsnext.manus.space)), complete with TMDB API integration, natural language AI recommendations, OAuth for user personalization, and database of user's ratings. 
 
@@ -51,7 +49,7 @@ This paradigm shift forces a renewed, intense focus on the user. When the techni
 
 The rise of AI development tools is more than just an incremental improvement in efficiency. It represents a fundamental paradigm shift in how we build products. By removing the traditional bottleneck of engineering execution, these tools are forcing a re-evaluation of the product development workflow. The new constraint is our ability to learn from users and define clear, valuable problems to solve. For product managers, this is a call to action: to double down on the core principles of our craft and lead our teams in this new era of continuous discovery.
 
-## Sources
+## References 
 
 1. [When Engineers Aren’t the Bottleneck Anymore, Your Process Better Catch Up](https://newsletter.productdriven.com/p/when-engineers-arent-the-bottleneck)
 2. [The 6 Eras of Software Evolution: From Waterfall to Platform Engineering](https://medium.com/@yasirbil/the-6-eras-of-software-evolution-from-waterfall-to-platform-engineering-e570bae6c2ea)
