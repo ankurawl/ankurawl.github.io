@@ -177,6 +177,13 @@ html {
   }
 }
 
+/* ------------------------------------------------------------------ */
+/* hide year index / heading on the posts archive (single‑year blogs)   */
+.layout--posts .taxonomy__index,
+.layout--posts .archive__subtitle {
+  display: none !important;
+}
+
 /* Hide Previous/Next navigation buttons */
 .pagination--pager {
   display: none;
